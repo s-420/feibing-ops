@@ -55,7 +55,7 @@
 
 | Center | 已有脚本（store-data-extractor，拼音原名） |
 |---|---|
-| `sc-商家中心` | DaoChuQuanBuMenDian、DaoChuZhiDinMenDianZuoTai、PiLiangTongBuMenDianPeiZhi、TiHuanMenDianKeFuHao、TiHuanMenDianRuQunLianJie、XiuGaiWeiXinMenDianHaoLink、PiLiangGengHuanZuoTaiLBSQunLianJie、PiLiangTiHuanZuoTaiHuanYingYuNeiRong、PiLiangXiuGaiZuoTaiDuiYinKeFu、PiLiangXiuGaiZuoTaiZiDingYiBiaoQian、PiLiangKaoBeiZuoTai、XunHuanChuangJianZuoTai、DaoChuQUanBuKeHuQun、DaoChuQuanBuLieBianQun、PiPeiLieBianQunHeKeHuQunShaiXuan、PiPeiLieBianQunHeQuanMenDian、DaoChuQuanBuLBSMa、DaoChuDianWaiBangDingMa、PiLiangChuangJianQuDaoMa、deleteWuYongQuDao、ShanChuWuYongQuDaoMaHuLian、DaoChuQuanBuYouHuiQuan |
+| `sc-商家中心` | DaoChuQuanBuMenDian、DaoChuZhiDinMenDianZuoTai、PiLiangTongBuMenDianPeiZhi、TiHuanMenDianKeFuHao、TiHuanMenDianRuQunLianJie、XiuGaiWeiXinMenDianHaoLink、PiLiangGengHuanZuoTaiLBSQunLianJie、PiLiangTiHuanZuoTaiHuanYingYuNeiRong、PiLiangXiuGaiZuoTaiDuiYinKeFu、PiLiangXiuGaiZuoTaiZiDingYiBiaoQian、PiLiangKaoBeiZuoTai、XunHuanChuangJianZuoTai、DaoChuQUanBuKeHuQun、DaoChuQuanBuLieBianQun、PiPeiLieBianQunHeKeHuQunShaiXuan、PiPeiLieBianQunHeQuanMenDian、DaoChuQuanBuLBSMa、DaoChuDianWaiBangDingMa、PiLiangChuangJianQuDaoMa、deleteWuYongQuDao、ShanChuWuYongQuDaoMaHuLian、DaoChuQuanBuYouHuiQuan、渠道欢迎语-批量导入-Excel |
 | `xc-微信中心` | DaoChuQuanBuChengYuan、PiLiangJiHuoZhangHu、PiLiangShuaXinMenDianKeFuYiDuiYi |
 | `tc-交易中心` | PiLiangTuiKuan |
 | `ac-活动获客` | （暂无脚本，多为界面操作：朋友圈任务、加好友、群欢迎语） |
